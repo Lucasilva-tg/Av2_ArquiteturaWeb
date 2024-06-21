@@ -21,11 +21,14 @@ Minha classe controller ela fica responsavel em definir as end points.
 ![5](https://github.com/Lucasilva-tg/Av2_ArquiteturaWeb/assets/101115192/1562bac3-2e15-48d9-8db9-2389580093f2)
 
 A minha classe security gera tokens JWT.
+
 ![image](https://github.com/Lucasilva-tg/Av2_ArquiteturaWeb/assets/101115192/bf2507f5-7a03-4ac4-a3ff-ba045d59fc89)
 
 A minha classe service fornece serviços para gerar tokens JWT.
+
 ![7](https://github.com/Lucasilva-tg/Av2_ArquiteturaWeb/assets/101115192/b0835220-cc5d-4a99-933f-eb1c30ec2007)
 
 
 Diagrama
+
 ![figma](https://github.com/Lucasilva-tg/Av2_ArquiteturaWeb/assets/101115192/e875143e-f8f4-4f2f-ae8a-9c1a2c587dae)
