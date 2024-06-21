@@ -32,3 +32,8 @@ A minha classe service fornece serviços para gerar tokens JWT.
 Diagrama
 
 ![figma](https://github.com/Lucasilva-tg/Av2_ArquiteturaWeb/assets/101115192/e875143e-f8f4-4f2f-ae8a-9c1a2c587dae)
+
+
+
+observação
+Não deu tempo de fazer o insomnia todo
